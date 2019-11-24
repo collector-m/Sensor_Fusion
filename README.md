@@ -13,19 +13,25 @@
 </font>
 ---
 
-### Lidar Obstacle Detection
+### Lidar Obstcle Detection
 <table><tr>
 <td>
 <figure>
-    <img  src="./images/Lidar_Obstacle.gif" alt="Drawing" style="width: 350px;"/>
+    <img  src="./images/Lidar_Obstacle0.gif" alt="Drawing" style="width: 350px;"/>
     <center>Lidar Obstcle Detection</center>
 </figure></td>
 
 <td><figure>
-    <img  src="./images/Lidar_Obstacle1.gif" alt="Drawing" style="width: 370px;"/>
+    <img  src="./images/Lidar_Obstacle2.gif" alt="Drawing" style="width: 340px;"/>
     <center>Lidar Obstcle Detection</center>
 </figure>
-  </td>  </tr></table>
+  </td>  
+  </td>
+</tr></table>
+<figure>
+    <img  src="./images/Lidar_Obstacle1.gif" alt="Drawing" style="width: 710px;"/>
+    <center>Tracking a bicyclist riding in front of the car</center>
+</figure>
 
 ---
 ---
