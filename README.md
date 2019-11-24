@@ -30,7 +30,9 @@
   </td>
 </tr></table>
 <figure>
+    <kbd>
     <img  src="./images/Lidar_Obstacle1.gif" alt="Drawing" style="width: 710px;"/>
+   </kbd>        
     <center>Tracking a bicyclist riding in front of the car</center>
 </figure>
 
@@ -41,7 +43,9 @@
 ### [2D Feature Matching](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_2D_Feature_Tracking)
 
 <figure>
+    <kbd>
     <img  src="./images/2D_Features.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
+    </kbd>    
     <center>2D_Features</center>
 </figure>
 
@@ -50,6 +54,8 @@
 ### [3D Feature Tracking and TTC calculation](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_3D_Object_Tracking)
 
 <figure>
+    <kbd>
     <img  src="./images/TTC.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
+    </kbd>    
     <center>TTC Calculation</center>
 </figure>    
