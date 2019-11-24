@@ -3,13 +3,13 @@
 
 <font size="3">
     
-*  Learn to detect obstacles in lidar point clouds through clustering and segmentation</br>
+*  Process raw lidar data with filtering, segmentation, and clustering to detect other vehicles on the road. 
 
-*  Apply thresholds and filters to radar data in order to accurately track objects
+*  Fuse camera images together with lidar point cloud data. You'll extract object features, classify objects, and project the camera image into three dimensions to fuse with lidar data. 
 
-* Augment your perception by projecting camera images into three dimensions and fusing these projections with other sensor data
+* Analyze radar signatures to detect and track objects. Calculate velocity and orientation by correcting for radial velocity distortions, noise, and occlusions. 
 
-* Combine this sensor data with Kalman filters to perceive the world around a vehicle and track objects over time
+* Fuse data from multiple sources using Kalman filters, and build extended and unscented Kalman filters for tracking nonlinear movement. 
 </font>
 
 ---
