@@ -23,12 +23,12 @@
 <td>
 <figure>
     <img  src="./images/Lidar_Obstacle0.gif" alt="Drawing" width="450" height="350"/>
-    <center>Lidar Obstcle Detection</center>
+    <p align="center">Lidar Obstcle Detection</p>
 </figure></td>
 
 <td><figure>
     <img  src="./images/Lidar_Obstacle2.gif" alt="Drawing" width="450" height="350"/>
-    <center>Tracking a bicyclist riding in front of the car</center>
+    <p align="center">Tracking a bicyclist riding in front of the car</p>
 </figure>
   </td>  
   </td>
@@ -37,7 +37,7 @@
     <kbd>
     <img  src="./images/Lidar_Obstacle1.gif" alt="Drawing" style="width: 710px;"/>
    </kbd>        
-    <center>Tracking a bicyclist riding in front of the car</center>
+    <p align="center">Tracking a bicyclist riding in front of the car</p>
 </figure>
 
 ---
@@ -50,7 +50,7 @@ Various combination of keypoint detectors, descriptors and matching schemes are 
     <kbd>
     <img  src="./images/2D_Features.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
     </kbd>    
-    <center>2D_Features</center>
+    <p align="center">2D_Features</p>
 </figure>
 
 ---
@@ -64,5 +64,5 @@ Various combination of keypoint detectors, descriptors and matching schemes are 
     <kbd>
     <img  src="./images/TTC.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
     </kbd>    
-    <center>TTC Calculation</center>
+    <p align="center">TTC Calculation</p>
 </figure>    
