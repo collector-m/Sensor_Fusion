@@ -14,7 +14,11 @@
 
 ---
 
-### [Lidar Obstcle Detection](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_Lidar_Obstacle_Detection)
+## Projects
+
+### [1. Lidar Obstcle Detection](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_Lidar_Obstacle_Detection)
+* Implemented RANSAC algorithm to separated ground plane from obstacles
+* Euclidean clustering algorithm is used to identify obstacles. KD tree implemented from scratch is used to speed up searching point cloud
 <table><tr>
 <td>
 <figure>
@@ -40,8 +44,8 @@
 
 
 
-### [2D Feature Matching](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_2D_Feature_Tracking)
-
+### [2. 2D Feature Matching](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_2D_Feature_Tracking)
+Various combination of keypoint detectors, descriptors and matching schemes are explored. 
 <figure>
     <kbd>
     <img  src="./images/2D_Features.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
@@ -51,8 +55,11 @@
 
 ---
 
-### [3D Feature Tracking and TTC calculation](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_3D_Object_Tracking)
-
+### [3. 3D Feature Tracking and TTC calculation](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_3D_Object_Tracking)
+* Various combination of keypoint detectors, descriptors and matching schemes are explored. 
+* Object detection using the pre-trained YOLO deep-learning framework
+* Methods to track objects by matching keypoints and bounding boxes across successive images
+* Associating regions in a camera image with lidar points in 3D space
 <figure>
     <kbd>
     <img  src="./images/TTC.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
