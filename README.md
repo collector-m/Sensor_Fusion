@@ -24,7 +24,7 @@
 
 <td><figure>
     <img  src="./images/Lidar_Obstacle2.gif" alt="Drawing" style="width: 340px;"/>
-    <center>Lidar Obstcle Detection</center>
+    <center>Tracking a bicyclist riding in front of the car</center>
 </figure>
   </td>  
   </td>
