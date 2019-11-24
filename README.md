@@ -3,29 +3,35 @@
 ---
 <font size="3">
     
-*  Process raw lidar data with filtering, segmentation, and clustering to detect other vehicles on the road.
+*  Learn to detect obstacles in lidar point clouds through clustering and segmentation</br>
+</br>
+*  Apply thresholds and filters to radar data in order to accurately track objects
 
-*  Fuse camera images together with lidar point cloud data. Extract object features, classify objects, and project the camera image into three dimensions to fuse with lidar data. 
+* Augment your perception by projecting camera images into three dimensions and fusing these projections with other sensor data
 
-*  Analyze radar signatures to detect and track objects. Calculate velocity and orientation by correcting for radial velocity distortions, noise, and occlusions.
-
-*  Fuse data from multiple sources using Unscented Kalman filters, and build extended and unscented Kalman filters for tracking nonlinear movement. 
+* Combine this sensor data with Kalman filters to perceive the world around a vehicle and track objects over time
 </font>
 ---
 
-### Lidar Obstacle Detection
+### Lidar Obstcle Detection
 <table><tr>
 <td>
 <figure>
-    <img  src="./images/Lidar_Obstacle.gif" alt="Drawing" style="width: 350px;"/>
+    <img  src="./images/Lidar_Obstacle0.gif" alt="Drawing" style="width: 350px;"/>
     <center>Lidar Obstcle Detection</center>
 </figure></td>
 
 <td><figure>
-    <img  src="./images/Lidar_Obstacle1.gif" alt="Drawing" style="width: 370px;"/>
+    <img  src="./images/Lidar_Obstacle2.gif" alt="Drawing" style="width: 340px;"/>
     <center>Lidar Obstcle Detection</center>
 </figure>
-  </td>  </tr></table>
+  </td>  
+  </td>
+</tr></table>
+<figure>
+    <img  src="./images/Lidar_Obstacle1.gif" alt="Drawing" style="width: 710px;"/>
+    <center>Tracking a bicyclist riding in front of the car</center>
+</figure>
 
 ---
 ---
@@ -36,4 +42,12 @@
 <figure>
     <img  src="./images/2D_Features.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
     <center>2D_Features</center>
+</figure>
 
+
+### 3D Feature Tracking and TTC calculation
+
+<figure>
+    <img  src="./images/TTC.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
+    <center>TTC Calculation</center>
+</figure>    
