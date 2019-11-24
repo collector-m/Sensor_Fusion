@@ -18,12 +18,12 @@
 <table><tr>
 <td>
 <figure>
-    <img  src="./images/Lidar_Obstacle0.gif" alt="Drawing" style="width: 350px;"/>
+    <img  src="./images/Lidar_Obstacle0.gif" alt="Drawing" width="450" height="350"/>
     <center>Lidar Obstcle Detection</center>
 </figure></td>
 
 <td><figure>
-    <img  src="./images/Lidar_Obstacle2.gif" alt="Drawing" style="width: 340px;"/>
+    <img  src="./images/Lidar_Obstacle2.gif" alt="Drawing" width="450" height="350"/>
     <center>Tracking a bicyclist riding in front of the car</center>
 </figure>
   </td>  
