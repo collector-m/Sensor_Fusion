@@ -11,7 +11,7 @@
 
 * Combine this sensor data with Kalman filters to perceive the world around a vehicle and track objects over time
 </font>
----
+
 
 ### [Lidar Obstcle Detection](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_Lidar_Obstacle_Detection)
 <table><tr>
@@ -33,7 +33,6 @@
     <center>Tracking a bicyclist riding in front of the car</center>
 </figure>
 
----
 ---
 
 
