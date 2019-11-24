@@ -1,10 +1,10 @@
 # Sensor Fusion
 
----
+
 <font size="3">
     
 *  Learn to detect obstacles in lidar point clouds through clustering and segmentation</br>
-</br>
+
 *  Apply thresholds and filters to radar data in order to accurately track objects
 
 * Augment your perception by projecting camera images into three dimensions and fusing these projections with other sensor data
@@ -13,7 +13,7 @@
 </font>
 ---
 
-### Lidar Obstcle Detection
+### [Lidar Obstcle Detection](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_Lidar_Obstacle_Detection)
 <table><tr>
 <td>
 <figure>
@@ -37,7 +37,8 @@
 ---
 
 
-### 2D Feature Matching
+
+### [2D Feature Matching](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_2D_Feature_Tracking)
 
 <figure>
     <img  src="./images/2D_Features.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
@@ -45,7 +46,7 @@
 </figure>
 
 
-### 3D Feature Tracking and TTC calculation
+### [3D Feature Tracking and TTC calculation](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_3D_Object_Tracking)
 
 <figure>
     <img  src="./images/TTC.gif" alt="Drawing" style="height: 500 width: 1000px;"/>
