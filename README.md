@@ -22,7 +22,7 @@
 </figure></td>
 
 <td><figure>
-    <img  src="./images/Lidar_Obstacle2.gif" alt="Drawing" style="height: 300 width: 330px;"/>
+    <img  src="./images/Lidar_Obstacle2.gif" alt="Drawing" style="width: 350px;"/>
     <center>Tracking a bicyclist riding in front of the car</center>
 </figure>
   </td>  
