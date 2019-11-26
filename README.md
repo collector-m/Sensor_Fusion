@@ -44,7 +44,7 @@
 
 
 
-### [2. 2D Feature Matching](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_2D_Feature_Tracking)
+### [2. 2D Feature Tracking](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_2D_Feature_Tracking)
 Various combination of keypoint detectors, descriptors and matching schemes are explored. 
 <figure>
     <kbd>
@@ -55,7 +55,7 @@ Various combination of keypoint detectors, descriptors and matching schemes are 
 
 ---
 
-### [3. 3D Feature Tracking and TTC calculation](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_3D_Object_Tracking)
+### [3. 3D Object Tracking and TTC calculation](https://github.com/darrickz/Sensor_Fusion/tree/master/SFND_3D_Object_Tracking)
 * Various combination of keypoint detectors, descriptors and matching schemes are explored. 
 * Object detection using the pre-trained YOLO deep-learning framework
 * Methods to track objects by matching keypoints and bounding boxes across successive images
